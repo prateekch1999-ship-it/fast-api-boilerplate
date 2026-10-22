@@ -1,0 +1,3 @@
+# Mirrors [project.dependencies] in pyproject.toml.
+# uv users: `uv sync` instead (uses uv.lock for exact pins).
+fastapi[standard]>=0.115
